@@ -1,0 +1,5 @@
+Build container:
+docker image build -t money:mayex
+
+Run container:
+docker container run -it -p 3000:3000 money:mayex
