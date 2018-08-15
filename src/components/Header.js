@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 const Header = (props) => {
   const { viewStyle, textStyle } = styles;
   return (
